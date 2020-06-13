@@ -1,3 +1,4 @@
-# Image Classification
+# Tensorflow and keras
 
-![ScreenShot](https://raw.githubusercontent.com/ShaliniR8/Image_classification/screenshots/image_classification.png)
+1. Image classification using CNN
+2. Digit CLassification using NN
