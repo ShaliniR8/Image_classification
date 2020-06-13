@@ -1,5 +1,5 @@
 # Image Classification
 
-<body>
+<p>
     <img src="/screenshots/image_classification.png"  />
-</body>
+</py>
