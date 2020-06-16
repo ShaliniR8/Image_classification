@@ -5,3 +5,6 @@
 
 # SVM
 1. Face recognition with SVM
+
+# NLP
+1. Sentiment Analysis
